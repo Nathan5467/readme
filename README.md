@@ -87,7 +87,6 @@
             • Truffle<br />
             • Hashnet<br />
             • Anchor<br />
-            • Openzeppelin<br />
             • Substrate<br />
             • TheGraph<br />
             • Chainlink<br />
