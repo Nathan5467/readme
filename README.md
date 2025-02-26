@@ -112,22 +112,38 @@
       <tr>
         <td style="border: 1px solid">
           <a href="https://www.outcraft.agency/">
+<<<<<<< HEAD
+            <img src="./assests/WEB/OutCraft_web.png" width="200">
+=======
             <img src="./assests/WEB/OutCraft_web.jpg" width="200">
+>>>>>>> da2bff122ebeb6bfe8c6ad2c9982ff4152b158db
           </a>
         </td>
         <td style="border: 1px solid">
           <a href="https://polisport.com/">
+<<<<<<< HEAD
+            <img src="./assests/WEB/polispot_web.png" width="200">
+=======
             <img src="./assests/WEB/polispot_web.jpg" width="200">
+>>>>>>> da2bff122ebeb6bfe8c6ad2c9982ff4152b158db
           </a>
         </td>
         <td style="border: 1px solid">
           <a href="https://ryan.com/">
+<<<<<<< HEAD
+            <img src="./assests/WEB/Ryan LLC_web.png" width="200">
+=======
             <img src="./assests/WEB/Ryan LLC_web.jpg" width="200">
+>>>>>>> da2bff122ebeb6bfe8c6ad2c9982ff4152b158db
           </a>
         </td>
         <td style="border: 1px solid">
           <a href="https://glassbororentals.com/en/">
+<<<<<<< HEAD
+            <img src="./assests/WEB/Glassboro_web.png" width="200">
+=======
             <img src="./assests/WEB/Glassboro_web.jpg" width="200">
+>>>>>>> da2bff122ebeb6bfe8c6ad2c9982ff4152b158db
           </a>
         </td>
       </tr>
@@ -180,22 +196,22 @@
         <tr>
           <td style="border: 1px solid">
             <a href="https://antmons.com/">
-              <img src="./img/web3/antmons.jpg" width="200">
+              <img src="./assests/Blockchain/antmons.jpg" width="200">
             </a>
           </td>
           <td style="border: 1px solid">
             <a href="https://breadwinnersnft.io">
-              <img src="./img/web3/breadwinner.jpg" width="200">
+              <img src="./assests/Blockchain/breadwinner.jpg" width="200">
             </a>
           </td>
           <td style="border: 1px solid">
             <a href="https://ez-nft.io/">
-              <img src="./img/web3/ez.jpg" width="200">
+              <img src="./assests/Blockchain/img/web3/ez.jpg" width="200">
             </a>
           </td>
           <td style="border: 1px solid">
             <a href="https://riotracers.com/">
-              <img src="./img/web3/riot.jpg" width="200">
+              <img src="./assests/Blockchain/img/web3/riot.jpg" width="200">
             </a>
           </td>
         </tr>
@@ -214,22 +230,22 @@
         <tr>
           <td style="border: 1px solid">
             <a href="https://robotos.art">
-              <img src="./img/web3/robotos.jpg" width="200">
+              <img src="./assests/Blockchain/robotos.jpg" width="200">
             </a>
           </td>
           <td style="border: 1px solid">
             <a href="https://highrollersnft.com/">
-              <img src="./img/web3/rollers.jpg" width="200">
+              <img src="./assests/Blockchain/rollers.jpg" width="200">
             </a>
           </td>
           <td style="border: 1px solid">
             <a href="https://spherium.finance/">
-              <img src="./img/web3/spherium.jpg" width="200">
+              <img src="./assests/Blockchain/spherium.jpg" width="200">
             </a>
           </td>
           <td style="border: 1px solid">
             <a href="https://tiredtroop.io/">
-              <img src="./img/web3/tired.jpg" width="200">
+              <img src="./assests/Blockchain/tired.jpg" width="200">
             </a>
           </td>
         </tr>
