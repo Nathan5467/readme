@@ -111,7 +111,7 @@
       <tbody align="center">
         <tr>
           <td style="border: 1px solid">
-            <a href="https://outcraft.agency/">
+            <a href="https://.outcraft.agency/">
               <img src="./assests/WEB/OutCraft_web.png" width="200">
             </a>
           </td>
@@ -122,12 +122,12 @@
           </td>
           <td style="border: 1px solid">
             <a href="https://ryan.com/">
-              <img src="./assests/WEB/Ryan LLC_web.jpg" width="200">
+              <img src="./assests/WEB/Ryan LLC_web.png" width="200">
             </a>
           </td>
           <td style="border: 1px solid">
             <a href="https://glassbororentals.com/en/">
-              <img src="./assests/WEB/Glassboro_web.jpg" width="200">
+              <img src="./assests/WEB/Glassboro_web.png" width="200">
             </a>
           </td>
         </tr>
@@ -191,12 +191,12 @@
           </td>
           <td style="border: 1px solid">
             <a href="https://ez-nft.io/">
-              <img src="./assests/Blockchain/img/web3/ez.jpg" width="200">
+              <img src="./assests/Blockchain/ez.jpg" width="200">
             </a>
           </td>
           <td style="border: 1px solid">
             <a href="https://riotracers.com/">
-              <img src="./assests/Blockchain/img/web3/riot.jpg" width="200">
+              <img src="./assests/Blockchain/riot.jpg" width="200">
             </a>
           </td>
         </tr>
