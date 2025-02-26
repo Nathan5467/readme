@@ -84,12 +84,13 @@
             <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /><br />
         </td>
         <td valign="top" style="border: 1px solid">
-            • Truffle<br />
-            • Hashnet<br />
-            • Anchor<br />
-            • Substrate<br />
-            • TheGraph<br />
-            • Chainlink<br />
+            • Truffle <br />
+            • Hashnet <br />
+            • Anchor <br />
+            • Openzeppelin <br />
+            • Substrate <br />
+            • TheGraph <br />
+            • Chainlink <br />
         </td>
       </tr>
     </tbody>
