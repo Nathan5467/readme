@@ -99,54 +99,39 @@
 <br />
 <h3><strong>🔖 PROJECT</strong></h3>
   <h4><strong>🌐 Web</strong></h4>
-  <table align="center" style="border: 1px solid">
-    <thead align="center">
-      <tr align="center">
-        <th align="center" style="border: 1px solid">OutCraft</th>
-        <th align="center" style="border: 1px solid">PoliSport</th>
-        <th align="center" style="border: 1px solid">Ryan LLC</th>
-        <th align="center" style="border: 1px solid">Glassbororentals</th>
-      </tr>
-    </thead>
-    <tbody align="center">
-      <tr>
-        <td style="border: 1px solid">
-          <a href="https://www.outcraft.agency/">
-<<<<<<< HEAD
-            <img src="./assests/WEB/OutCraft_web.png" width="200">
-=======
-            <img src="./assests/WEB/OutCraft_web.jpg" width="200">
->>>>>>> da2bff122ebeb6bfe8c6ad2c9982ff4152b158db
-          </a>
-        </td>
-        <td style="border: 1px solid">
-          <a href="https://polisport.com/">
-<<<<<<< HEAD
-            <img src="./assests/WEB/polispot_web.png" width="200">
-=======
-            <img src="./assests/WEB/polispot_web.jpg" width="200">
->>>>>>> da2bff122ebeb6bfe8c6ad2c9982ff4152b158db
-          </a>
-        </td>
-        <td style="border: 1px solid">
-          <a href="https://ryan.com/">
-<<<<<<< HEAD
-            <img src="./assests/WEB/Ryan LLC_web.png" width="200">
-=======
-            <img src="./assests/WEB/Ryan LLC_web.jpg" width="200">
->>>>>>> da2bff122ebeb6bfe8c6ad2c9982ff4152b158db
-          </a>
-        </td>
-        <td style="border: 1px solid">
-          <a href="https://glassbororentals.com/en/">
-<<<<<<< HEAD
-            <img src="./assests/WEB/Glassboro_web.png" width="200">
-=======
-            <img src="./assests/WEB/Glassboro_web.jpg" width="200">
->>>>>>> da2bff122ebeb6bfe8c6ad2c9982ff4152b158db
-          </a>
-        </td>
-      </tr>
+    <table align="center" style="border: 1px solid">
+      <thead align="center">
+        <tr align="center">
+          <th align="center" style="border: 1px solid">OutCraft</th>
+          <th align="center" style="border: 1px solid">PoliSport</th>
+          <th align="center" style="border: 1px solid">Ryan LLC</th>
+          <th align="center" style="border: 1px solid">Glassbororentals</th>
+        </tr>
+      </thead>
+      <tbody align="center">
+        <tr>
+          <td style="border: 1px solid">
+            <a href="https://outcraft.agency/">
+              <img src="./assests/WEB/OutCraft_web.png" width="200">
+            </a>
+          </td>
+          <td style="border: 1px solid">
+            <a href="https://polisport.com/">
+              <img src="./assests/WEB/polispot_web.png" width="200">
+            </a>
+          </td>
+          <td style="border: 1px solid">
+            <a href="https://ryan.com/">
+              <img src="./assests/WEB/Ryan LLC_web.jpg" width="200">
+            </a>
+          </td>
+          <td style="border: 1px solid">
+            <a href="https://glassbororentals.com/en/">
+              <img src="./assests/WEB/Glassboro_web.jpg" width="200">
+            </a>
+          </td>
+        </tr>
+      </tbody>
     </table>
     <table align="center" style="border: 1px solid">
       <thead align="center">
