@@ -112,22 +112,22 @@
       <tr>
         <td style="border: 1px solid">
           <a href="https://www.outcraft.agency/">
-            <img src="./img/web/OutCraft_web.jpg" width="200">
+            <img src="./assests/WEB/OutCraft_web.jpg" width="200">
           </a>
         </td>
         <td style="border: 1px solid">
           <a href="https://polisport.com/">
-            <img src="./img/web/polispot_web.jpg" width="200">
+            <img src="./assests/WEB/polispot_web.jpg" width="200">
           </a>
         </td>
         <td style="border: 1px solid">
           <a href="https://ryan.com/">
-            <img src="./img/web/Ryan LLC_web.jpg" width="200">
+            <img src="./assests/WEB/Ryan LLC_web.jpg" width="200">
           </a>
         </td>
         <td style="border: 1px solid">
           <a href="https://glassbororentals.com/en/">
-            <img src="./img/web/Glassboro_web.jpg" width="200">
+            <img src="./assests/WEB/Glassboro_web.jpg" width="200">
           </a>
         </td>
       </tr>
@@ -145,22 +145,22 @@
         <tr>
           <td style="border: 1px solid">
             <a href="https://appics.com/">
-              <img src="./img/web/appics_web.jpg" width="200">
+              <img src="./assests/WEB/appics_web.jpg" width="200">
             </a>
           </td>
           <td style="border: 1px solid">
             <a href="https://bumble.com/">
-              <img src="./img/web/bumble_web.jpg" width="200">
+              <img src="./assests/WEB/bumble_web.jpg" width="200">
             </a>
           </td>
           <td style="border: 1px solid">
             <a href="https://payeer.com/en/">
-              <img src="./img/web/payeer_web.jpg" width="200">
+              <img src="./assests/WEB/payeer_web.jpg" width="200">
             </a>
           </td>
           <td style="border: 1px solid">
             <a href="https://singlife.com/en">
-              <img src="./img/web/singlife_web.jpg" width="200">
+              <img src="./assests/WEB/singlife_web.jpg" width="200">
             </a>
           </td>
         </tr>
