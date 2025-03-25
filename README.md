@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cn.corestar@gmail.com)](mailto:KingStar365.21@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-3495eb?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/proengindev)](https://t.me/proengindev)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-3495eb?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/MyChannel0115)](https://t.me/MyChannel0115)
 
 <h1 align="center">
   <strong>
