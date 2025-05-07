@@ -1,7 +1,18 @@
-## Hi there 👋
+## Hi there I'm [Nathan] 👋
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cn.corestar@gmail.com)](mailto:KingStar365.21@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-3495eb?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/MyChannel0115)](https://t.me/MyChannel0115)
+> 💻 Full-stack Developer | Web3 Developer
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nathanscott5467@gmail.com)](mailto:nathanscott5467@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-3495eb?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/tothemarsx2)](https://t.me/tothemarsx2)
+
+I am a Full Stack Developer from :house: Vietnam
+
+## ⚡ Stats
+
+![Status](./profile-3d-contrib/proftec.webp)
+
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harryninja&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harryninja&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <h1 align="center">
   <strong>
@@ -12,17 +23,13 @@
 <h3><strong>🖋️ SUMMARY</strong></h3>
   <ul>
     <p>
-      Senior Full Stack Developer with 7+ years of experience building web applications and financial software. Led teams of up to 10 developers, mentored junior staff, and optimized processes — reducing software processing time by 25%. Proficient in frameworks like React.js, Node.js, Laravel, AWS, and AI platforms. Delivered scalable backend systems and user-friendly interfaces, contributing to a 20% average increase in client revenue.
+      Senior Full Stack Developer with 5+ years of experience building web applications and financial Dapps. Led teams of up to 7 developers, mentored junior staff, and optimized processes — reducing software processing time. Proficient in frameworks like React.js, Node.js, Laravel, AWS, and AI platforms.
     </p>
   </ul>
 
-<h3><strong>📊 STATS</strong></h3>
-      
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prodevcn&hide=TeX&layout=compact&theme=tokyonight)
-
-<h3><strong>🥼 EXPERTISE</strong></h3>
+<h3><strong>👓 EXPERTISE</strong></h3>
   <ul>
-    <li>Developing web front-end, back-end, and RESTful API</li>
+    <li>Developing Frontend, Backend, and Web3 Dapps</li>
     <li>Programming solidity and rust for smart contracts that would be deployed to EVM chains and the Solana network. </li>
   </ul>
 
@@ -49,15 +56,14 @@
         <td valign="top" style="border: 1px solid">
             <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /><br />
             <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /><br />
-            <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /><br />
             <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /><br />
             <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" /><br />
-            <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" /><br />
+            <img src="https://img.shields.io/badge/Solana-3A3A3A?style=for-the-badge&logo=solana&logoColor=00FFA3" /><br />
             <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /><br />
         </td>
         <td valign="top" style="border: 1px solid">
-            <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /><br />
             <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br />
+            <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /><br />
             <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /><br />
             <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /><br />
             <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" /><br />
@@ -65,12 +71,10 @@
          <td valign="top" style="border: 1px solid">
             <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /><br />
             <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /><br />
-            <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" /><br />
             <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /><br />
             <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=whites" /><br />
             <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" /><br />
             <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /><br />
-            <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" /><br />
         </td>
         <td valign="top" style="border: 1px solid">
             <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /><br />
@@ -84,20 +88,19 @@
             <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /><br />
         </td>
         <td valign="top" style="border: 1px solid">
-            • Truffle <br />
-            • Hashnet <br />
-            • Anchor <br />
-            • Openzeppelin <br />
-            • Substrate <br />
-            • TheGraph <br />
-            • Chainlink <br />
+            <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" /><br />
+            <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" /><br />
+            <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" /><br />
+            <img src="https://img.shields.io/badge/Truffle-5E464D?style=for-the-badge" /><br />
+            <img src="https://img.shields.io/badge/Hardhat-181717?style=for-the-badge&logo=hardhat&logoColor=yellow" /><br />
+            <img src="https://img.shields.io/badge/Foundry-EF4F4F?style=for-the-badge" /><br />
         </td>
       </tr>
     </tbody>
   </table>
 </p>
 <br />
-<h3><strong>🔖 PROJECT</strong></h3>
+<h3><strong>✈️ PROJECT</strong></h3>
   <h4><strong>🌐 Web</strong></h4>
     <table align="center" style="border: 1px solid">
       <thead align="center">
@@ -167,7 +170,7 @@
         </tr>
       </tbody>
     </table>
-  <h4><strong>🪙 Crypto, Web3</strong></h4>
+  <h4><strong>₿ Crypto, Web3</strong></h4>
     <table align="center" style="border: 1px solid">
       <thead align="center">
         <tr align="center">
